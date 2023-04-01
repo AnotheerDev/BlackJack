@@ -12,3 +12,6 @@ if (sum < 21) {
 } else {
     console.log("You're out of the game!")
 }
+
+/// blablabla
+/// encore un test
